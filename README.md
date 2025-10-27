@@ -2,7 +2,7 @@
 
 RU
 ---
-Я занимаюсь внедрением ИИ в онлайн‑обучение: ассистенты для учеников, техподдержки и продаж; автоматизация через nocode (n8n/Make) и интеграции с Telegram/вебом.
+Я занимаюсь внедрением ИИ в онлайн‑обучение: ассистенты для учеников, техподдержки и продаж; автоматизация через  и интеграции с Telegram/вебом.
 
 Ключевые направления:
 - ИИ‑куратор: прогресс ученика, проверки, напоминания
@@ -14,7 +14,7 @@ RU
 
 EN
 ---
-I build AI assistants for education: student success, support, and sales. Strong in nocode automations (n8n/Make), Telegram/LLM integrations, and production‑ready tooling.
+I build AI assistants for education: student success, support, and sales. Strong in Telegram/LLM integrations, and production‑ready tooling.
 
 Focus areas:
 - AI Curator: student progress checks and nudges
