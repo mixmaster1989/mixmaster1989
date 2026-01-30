@@ -47,7 +47,7 @@ Infra:               GitHub Actions, Docker (where needed)
 ## 💼 Что я ищу
 
 🔍 **Удалёнка от 150k RUB** как AI архитектор / интегратор. География, домен — не принципиальны.  
-📧 Пишите: [Telegram @mixmaster1989](https://t.me/mixmaster1989)
+📧 Пишите: [Telegram @mixmaster1989](https://t.me/mixmasters89)
 
 ---
 
@@ -61,4 +61,4 @@ Infra:               GitHub Actions, Docker (where needed)
 
 ---
 
-🔗 **Свяжитесь со мной:** [Telegram](https://t.me/mixmaster1989) | [GitHub](https://github.com/mixmaster1989)
+🔗 **Свяжитесь со мной:** [Telegram](https://t.me/mixmasters89) | [GitHub](https://github.com/mixmaster1989) | [Website](https://tretyakov-igor.tech)
